@@ -10,7 +10,7 @@ stream = video.streams.filter(only_audio=False).get_highest_resolution()
 file_size = stream.filesize
 
 # Utwórz katalog, jeśli nie istnieje
-output_directory = "C:\\Users\\Uzytkownik1\\PycharmProjects\\ytvideodownloader"
+output_directory = ""
 os.makedirs(output_directory, exist_ok=True)
 
 # Usuń niedozwolone znaki ze tytułu
