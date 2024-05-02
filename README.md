@@ -19,4 +19,4 @@ Instrukcja jest całkiem prosta.
 
 I gratulacje, masz już pobrany i obejrzany film. Teraz możesz powtórzyć proces.
 
-W razie problemu wejdź na serwer discord [znajomkowo](https://discord.gg/EHjjBTd6mh) wejdź na kategorię programowanie i opowiedz o problemie.
+W razie problemu dodaj mnie na discordzie nazwa: rudyyyom
